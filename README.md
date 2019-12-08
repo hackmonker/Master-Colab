@@ -1,2 +1,2 @@
 # Master-Colab
-My Masyer Colaboratory Notebook
+My Master Colaboratory Notebook
